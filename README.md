@@ -1,0 +1,2 @@
+# SQL Zoo
+The final project for The Odin Project's Databases course where we have to do the Tutorials 0-9 listed under the “Tutorial Section” and the quizzes listed at the end of each. In this repository there will be sql files for each tutorials containing my answer for each question in that tutorial. There are also multi optional quizzes from the SQL Zoo but my answer for that quiz won't be listed here.
